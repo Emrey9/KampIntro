@@ -79,7 +79,7 @@ namespace KampIntro
 
             int sayi = 8;
             String sonuc = sayi % 2 == 0 ? "Cift" : "Tek";
-            Console.WriteLine(sonuc);   
+            Console.WriteLine(sonuc);
         }
     }
 
@@ -90,5 +90,5 @@ namespace KampIntro
         public int IzlenmaOranı { get; set; }
     }
 
-    
+
 }
